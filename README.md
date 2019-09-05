@@ -1,3 +1,3 @@
 # GPS
 
-#Ip adresi uzerinden geoIp kullanarak konum bulma 
+Ip adresi uzerinden geoIp kullanarak konum bulma 
